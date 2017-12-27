@@ -7,7 +7,7 @@ public class MyManager implements BaseManager {
 
 	@Override
 	public void logic() {
-		System.out.println("test.......111");
+		System.out.println("test.......22");
 		System.out.println("test2");
 	}
 

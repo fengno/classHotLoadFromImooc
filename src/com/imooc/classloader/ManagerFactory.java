@@ -11,7 +11,7 @@ public class ManagerFactory {
 	// 记录热加载类的加载信息
 	private static final Map<String, LoadInfo> loadTimeMap = new HashMap<String, LoadInfo>();
 	// 要加载的类的classpath
-	private static final String CLASS_PATH = "D:\\Java\\studyspace\\classloader\\bin\\";
+	private static final String CLASS_PATH = "D:\\Java\\GitProjects\\classHotLoadFromImooc\\bin\\";
 	//实现热加载的类的全名称（包名+类名）
 	public static final String  MY_MANAGER = "com.imooc.classloader.MyManager";
 	
